@@ -1,0 +1,155 @@
+[
+    {
+        "id":1,
+        "name":"Hotel O SHREE JI",
+        "address":"1, Hotel Shreeji Complex, Mehsana Highway, Nandasan, Gandhinagar road, Gandhinagar, Gandhinagar",
+        "Amenities": [
+            "Free Wifi", "AC" , "Tv", "Geyeser" , "Power Backup"
+        ],
+        "actualPrice":4004,
+        "DiscountedPrice":875,
+
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/247478/large/ohwmnikijdly.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/247478/large/jsvitlatheae.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/247478/large/dfdfbjmtoxca.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/247478/large/xxalwdobxyqr.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/247478/large/deteppqmybfg.jpg"
+        ],
+        "soldOut":false,
+        "description":"Affordable hotels at prime location."
+
+    },
+
+    {
+        "id":2,
+        "name":"Super Hotel O Siddharth Inn",
+        "address":"K Road, Behind H P Petrol Pump, Near Keshav Park, New Vavol, Gandhinagar",
+        "Amenities": [
+            "AC" , "TV" ," Free Wifi" ," Geyser" , "Parking facility" , " Elevator"
+        ],
+        "ratings":4.4,
+        "Hotelimages":[
+           "https://images.oyoroomscdn.com/uploads/hotel_image/9275/large/jatisxjnlsio.jpg",
+           "https://images.oyoroomscdn.com/uploads/hotel_image/9275/large/tawkpuxfecdo.jpg",
+           "https://images.oyoroomscdn.com/uploads/hotel_image/9275/large/wkrxteypdyqf.jpg",
+           "https://images.oyoroomscdn.com/uploads/hotel_image/9275/large/dkwodgpjname.jpg",
+           "https://images.oyoroomscdn.com/uploads/hotel_image/9275/large/igadoehhoigt.jpg"
+        ],
+        "soldOut":true,
+        "actualPrice":4738,
+        "DiscountedPrice":1149,
+        "description":"Hotel Siddharth Inn is a Budgetfriendly hotel located near Keshav Park in New Vavol in Gandhinagar. Dandi Kutir, Swarnim Park, the Akshardham Temple, Deer Park, and the Mahatma Mandir are some popular tourist attractions located close to the hotel."
+
+    },
+    {
+        "id":3,
+        "name":"Super Collection O Siddharth Corporate",
+        "address":"Nr Siddharth Bunglows, 'k' Road, Behind Hp Petrol Pump, New Vavol, Nr Siddharth Bunglows, 'k' Road, Behind Hp Petrol Pump, New Vavol, Gandhinagar",
+        "Amenities": [
+            "AC" , " Free Wifi"  , "Modern wardrobe"   , "Kitchen" , "King Sized Bed" , "Attached Washroom" , "Card payment" , " CCTV cameras", "Daily housekeeping" ,
+            "Conference room" , "Dining area" , "Coffee/tea maker " , "Security " , "24/7 check-in", "Luggage assistance" , " Taxi service" , " Daily housekeeping" , "Bath Or Shower"
+            ," Fire extinguisher" , "Shuttle service", " Telephone" , " Extra Mattress Possible"
+        ],
+        "description":"The Collection O 88939 Siddharth Corporate is a smart choice for travellers looking for a comfortable stay at affordable prices. Located in Gandhinagar, this hotel is 2 km from Mahatma Mandir Convention and Exhibition Centre and 10 km from The Adalaj Stepwell.",
+        "ratings":4.8,
+        "actualPrice":5412,
+        "DiscountedPrice":1247,
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/2de51afba39ebb11.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/499d21af2ebf5db9.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/7da5c34c732fb9a1.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/7da5c34c732fb9a1.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/27ce2e737320b728.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/178011/large/e4a2e582874e569f.jpg"
+         ],
+        "soldOut":false
+    },
+
+    {
+        "id":4,
+        "name":"Super Hotel O Flagship Hotel Relax Inn",
+        "address":"Shop No-5, Swarnim Sapphire, B/H.-H.P. Petrol Pump, K Road, New Vavo, Gandhinagar-382016-Gujarat, Gandhinagar",
+        "Amenities":[
+            "AC", " Free Wifi", "TV", "Power Backup", "Daily housekeeping", "Geyeser"
+        ],
+        "description":"Affordable hotels at prime location.",
+        "ratings":4.3,
+        "actualPrice":5175,
+        "DiscountedPrice":1120,
+        "soldOut":false,
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/201923/large/578a2bb863b98cf8.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/201923/large/312377692c693f3d.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/201923/large/195d0f9b3e890409.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/201923/large/1faded94a8469554.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/201923/large/421c560ccca6e44f.jpg"
+        ]
+
+    },
+    {
+        "id":5,
+        "name":"Super Hotel O Om Tapovan",
+        "address":"201, 2nd Floor, happy heights, Sardar Patel Ring Rd, opp. Bharat petrol pump near Tapovan Circle, Chandkheda, Ahmedabad",
+        "Amenities":[
+            "AC", " Free Wifi", "TV", "Power Backup",  "Geyeser"
+        ],
+        "description":"Affordable hotels at prime location.",
+        "actualPrice":4771,
+        "DiscountedPrice":1099,
+        "soldOut":false,
+        "ratings":4.6,
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/241367/large/dpufhonyhodo.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/241367/large/iruyqvkhybjp.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/241367/large/kymbphpiioak.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/241367/large/kwcvnvsgrqih.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/241367/large/lqjijbbhwxun.jpg"
+        ]
+    },
+    {
+        "id":6,
+        "name":"Collection O Greenwood",
+        "address":"1st Floor, Riddhi Complex, Opp. Loha Bhavan, Near Family Court, Income Tax, Navrangpura, Ahmedabad",
+        "ratings":4.2,
+        "Amenities":[
+            "AC", " Free Wifi", "TV", "Power Backup",  "Geyeser" , "Kitchen", "Card payment",
+            " Elevator", "Parking facility", " CCTV cameras", " Private entrance", "Reception",
+            " Fire extinguisher", "Attached bathroom", "Security ", "24/7 check-in"
+        ],
+        "description":"A space for new-age travelers.",
+        "actualPrice":4454,
+        "DiscountedPrice":966,
+        "soldOut":false,
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/102032/large/efpfvgqvoitf.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/102032/large/mbhnudtqjhnd.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/102032/large/civshunxcsrp.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/102032/large/qfchvnxpvfyt.jpg"
+        ]
+    },
+    {
+        "id":7,
+        "name":"Super Townhouse Nana Chiloda Near Airport",
+        "address":"HOTEL GREEN VELLY 7th floor Atlanta Business Hub Near Airport , Nana Chiloda - Naroda Road , S.P Ring Road Circle , Ahmedabad, Ahmedabad",
+        "ratings":4.8,
+        "actualPrice":3785,
+        "DiscountedPrice":904,
+        "Amenities":[
+            "AC", "Free Wifi", "Free High Speed Wifi", "TV", "DTH", "Geyser", "Power backup" ,
+            "Elevator"
+        ],
+        "description":"OYO Townhouse is based on the needs of the millennial traveler. Every single element of the hotel -  from the breakfast menu to the booking process has been re-engineered for comfort, efficiency, convenience and affordability.",
+        "soldOut":false,
+        "Hotelimages":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/227604/large/hpmpimdxtwqn.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/227604/large/yppbwvglpqpk.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/227604/large/yoqcaiohrmsm.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/227604/large/qgcmukjpyfqp.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/227604/large/elywmlpbthyj.jpg"
+        ]
+
+
+    }
+
+]
